@@ -6,7 +6,6 @@ import android.text.TextUtils;
 
 import com.aotuman.share.ThumbBitmapManager;
 import com.aotuman.share.entity.ShareChannelType;
-import com.aotuman.share.entity.ShareMediaContent;
 import com.aotuman.share.entity.ShareRealContent;
 import com.tencent.mm.opensdk.modelmsg.SendMessageToWX;
 import com.tencent.mm.opensdk.modelmsg.WXImageObject;
